@@ -1,0 +1,157 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.topRightinfo {
+    width: 100%;
+    display: table;
+}
+
+
+.topRightinfo ul {
+    list-style: none;
+    float: right;
+}
+
+
+.topRightinfo ul li {
+    float: left;
+    position: relative;
+}
+
+
+.topRightinfo ul li a {
+    text-decoration: none;
+    padding: 15px;
+    color: #810fe8;
+    margin-right: 15px;
+    font-size:25px
+}
+.topRightinfo ul li:hover{background:#ef0863;}
+
+
+#size_h1{
+    font-size: 73px;
+}
+
+
+.skip_color{
+    color:#ef0863;
+}
+
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
+.image{
+    width:50%;
+    padding: 2%;  
+}
+
+
+.image img{
+    width:100%;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: 
+    linear-gradient(rgb(233, 20, 137), rgba(100, 172, 172, 0.863));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 30px;
+}
+
+
+.background_img{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+#recipies{
+    font-size: 65px;
+    text-align: center;
+}
+
+
+#pragraph{
+    width: 964px;
+    margin: auto;
+}
+
+
+.Icon ul {
+    list-style: none;
+    padding-left: 30%;
+}
+
+
+.Icon ul li {
+    float: left;
+    position: relative;
+    top: -77px;
+}
+
+
+.Icon ul li a {
+    padding: 30px;
+    font-size: 70px;
+}
+
+
+.Icon ul li:hover{background:#ef0863;}
+
+
+.contant{
+    
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;   
+}
+
+
+.food_img img {
+    width: 97%;
+    padding-top: 8px;
+}
+
+
+.footer {
+    text-align: center;
+    background: black;
+    color: white;
+    height: 250px;
+    padding-top: 12px;
+    font-size: 30px;
+}
+
+
+.food-color{
+    color:#ef0863;
+}
+
+
+
+
+
+
+
+
+
+
+
+
